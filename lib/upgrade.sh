@@ -1,5 +1,5 @@
 # Setting ES version to install
-ES_VERSION="elasticsearch-1.4.3"
+ES_VERSION="elasticsearch-1.5.2"
 ES_PLUGIN_INSTALL_CMD="elasticsearch/bin/plugin -install"
 
 # Removing all previous potentially installed version
